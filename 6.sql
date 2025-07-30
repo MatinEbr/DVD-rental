@@ -14,7 +14,7 @@ group by
 	c.name
 order by total_amount desc
 /*  Although there is no title that belongs to two or more categories, this table 
-shows the total income from each categor */
+shows the total income from each category */
 
 /*WITH film_categories AS (
     SELECT
